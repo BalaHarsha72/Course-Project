@@ -1,0 +1,19 @@
+tools used are:
+
+MS EXCEL for graphs
+
+Covare for the counting of test coverage 
+
+pytest-cov and covare in measure of test coverage in Python projects 
+
+projects
+•	TensorFlow (A deep learning and machine learning library).
+Repository: https://github.com/tensorflow/tensorflow
+•	Visits (A simple HTTP library for Python)
+Repository: https://github.com/psf/requests
+•	It is a Web Scraping Framework named Scrapy Dental.
+Repository: https://github.com/scrapy/scrapy
+•	Matplotlib (A plotting library for Python Newest)
+Repository: https://github.com/matplotlib/matplotlib
+•	Ansible –an automation tool for IT infrastructure.
+Repository: https://github.com/ansible/ansible
